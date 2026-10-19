@@ -1,32 +1,32 @@
 <div align="center">
 
-  <!-- Header Banner Theme Anime / Sakura Gradient -->
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=26,20,35,40,25,50&height=220&section=header&text=MDIRAM%20%7C%20ディカ&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Anime Header Banner" />
+  <!-- EVA NERV Warning Banner -->
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=2,5,15,30&height=220&section=header&text=EMERGENCY%20:%20MDIRAM%20DOMAIN&fontSize=38&fontColor=ff2a2a&animation=twinkling&fontAlignY=38" width="100%" alt="Evangelion Header Banner" />
 
   <br/>
 
-  <!-- GIF Anime Coding Estetik -->
+  <!-- GIF Evangelion / Anime -->
   <a href="https://github.com/MDIRAM">
-    <img src="https://media.giphy.com/media/l41FJpL4T9X3wS6J2/giphy.gif" width="400" alt="Anime Girl / Boy Coding GIF" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZsaTJvcm53ZmE3ZWNidW4xbzJkMWtkdmx5NDBwZHprNmcxb3lzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="450" alt="Evangelion GIF" />
   </a>
 
   <br/><br/>
 
-  <h2>⛩️ Welcome to My Cyber Domain! (ようこそ) ⛩️</h2>
+  <h2>⚡ [SYSTEM STATUS: EVA UNIT-01 SYNCHRONIZED] ⚡</h2>
 
-  <p><b>Software Developer • Python & C# Enjoyer • Otaku & Gamer</b></p>
-  <p><i>"Code like an artist, debug like a samurai."</i> ⚔️</p>
+  <p><b>Muhamad Dika Ramadhan • Python & C# Developer • NERV Pilot</b></p>
+  <p><i>"Get in the code, Shinji... or Rei will have to debug it."</i> 🤖💥</p>
 
   <br/>
 
-  <!-- Anime/Japanese Aesthetic Badge Divider -->
-  <img src="https://img.shields.io/badge/Status-Coding%20%26%20Watching%20Anime-ff79c6?style=for-the-badge&logo=anime&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mode-Otaku%20Dev-bd93f9?style=for-the-badge" />
+  <!-- Evangelion Theme Badges -->
+  <img src="https://img.shields.io/badge/NERV-TOKYO--3%20HQ-ff0000?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/SYNC%20RATE-400%25-7b2cbf?style=for-the-badge" />
 
   <br/><br/>
 
-  <!-- Tech Stack Badges with Japanese Theme / Neon Colors -->
-  <h3>🍡 Tech Stack & Weapons of Choice (技術)</h3>
+  <!-- Tech Stack & Armaments -->
+  <h3>🗡️ Pilot Armaments & Weapons (装備)</h3>
 
   <p align="center">
     <!-- Languages -->
@@ -49,43 +49,43 @@
 
 ---
 
-### 🌸 About Me (私について)
+### 🚨 Pilot Data Sheet
 
-- 🏮 **Developer Focus:** Building backend APIs, desktop apps, and cool scripts with **Python** & **C#**.
-- 🎮 **Gaming & Anime:** Huge fan of RPGs, narrative games, and seasonal anime.
-- 💻 **OS & Setup:** Crafting software inside **Linux Mint** & **VS Code**.
-- 🚀 **Current Quest:** Leveling up software engineering skills to S-Rank!
+* 🩸 **Pilot Designation:** MDIRAM (Unit-01 Operator)
+* 🧠 **Core Sync:** Python Backend, C# / .NET Applications & Scripting
+* 🛠️ **Magi System Tools:** Linux Mint, VS Code, PostgreSQL, Git
+* 🛡️ **Defensive Barrier:** AT Field active against bugs and unexpected runtime errors!
 
 ---
 
-### 📜 Quest Board / Featured Projects (プロジェクト)
+### 📂 NERV Classified Operations (Projects)
 
-| Quest (Project) | Guild Rank | Tech Stack | Description |
+| Operation | Threat Level | Tech Stack | Details |
 | :--- | :---: | :--- | :--- |
-| 🐍 **[Python Magic Tool](https://github.com/MDIRAM)** | `S-Rank` | `Python` `SQL` | Powerful Python script / backend project. |
-| ⚡ **[C# .NET Application](https://github.com/MDIRAM)** | `A-Rank` | `C#` `.NET` | High-performance C# / .NET app. |
-| 📱 **[Flutter Companion App](https://github.com/MDIRAM)** | `A-Rank` | `Flutter` `Dart` | Mobile application project. |
+| 🐍 **[Python Core Engine](https://github.com/MDIRAM)** | `Angel-Level` | `Python` `SQL` | High-priority Python backend / automation script. |
+| ⚡ **[C# .NET MAGI Protocol](https://github.com/MDIRAM)** | `Catastrophe` | `C#` `.NET` | High-performance C# application framework. |
+| 📱 **[Flutter Terminal UI](https://github.com/MDIRAM)** | `Code-Red` | `Flutter` `Dart` | Mobile interface application. |
 
 ---
 
 <div align="center">
 
-  <h3>📊 Cyber Stats & Guild Level (統計)</h3>
+  <h3>📊 MAGI Supercomputer Diagnostics (Stats)</h3>
 
   <br/>
 
-  <!-- Stats Card Dracula/Sakura Anime Theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MDIRAM&show_icons=true&theme=dracula&hide_border=true&count_private=true&title_color=ff79c6&icon_color=bd93f9" height="165" alt="Stats Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDIRAM&layout=compact&theme=dracula&hide_border=true&title_color=ff79c6" height="165" alt="Top Languages" />
+  <!-- Stats Card Evangelion Theme -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MDIRAM&show_icons=true&theme=synthwave&hide_border=true&count_private=true&title_color=ff0055&icon_color=7b2cbf" height="165" alt="Stats Card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDIRAM&layout=compact&theme=synthwave&hide_border=true&title_color=ff0055" height="165" alt="Top Languages" />
 
   <br/><br/>
 
   <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDIRAM&theme=dracula&hide_border=true&fire=ff79c6&ring=bd93f9" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDIRAM&theme=synthwave&hide_border=true&fire=ff0055&ring=7b2cbf" alt="Streak Stats" />
 
   <br/><br/>
 
-  <!-- Japanese/Sakura Counter -->
-  <img src="https://komarev.com/ghpvc/?username=MDIRAM&color=ff79c6&style=for-the-badge&label=PROFILE+VISITORS+%E3%81%BB%E3%81%86%E3%81%93%E3%81%8F" alt="Visitor Counter" />
+  <!-- NERV Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=MDIRAM&color=ff0000&style=for-the-badge&label=NERV+LOGINS" alt="Visitor Counter" />
 
 </div>
