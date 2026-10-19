@@ -7,7 +7,7 @@
 
   <!-- GIF Evangelion / Anime -->
   <a href="https://github.com/MDIRAM">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZsaTJvcm53ZmE3ZWNidW4xbzJkMWtkdmx5NDBwZHprNmcxb3lzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="450" alt="Evangelion GIF" />
+    <img src="https://animesher.com/orig/1/138/1381/13818/animesher.com_anime-gif-gif-neon-genesis-evangelion-1381887.gif" width="450" alt="Evangelion GIF" />
   </a>
 
   <br/><br/>
