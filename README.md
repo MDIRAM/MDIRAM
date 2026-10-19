@@ -1,5 +1,5 @@
 <div align="center">
-
+                                                                        https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3AzdjZ4anVzbHR3MHBzeHlveTZwYXVrOWI1bmpmdjNheHZydW5nMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DKBNw2vrTdzANEV5ec/giphy.gif
   <!-- GIF Paling Atas (Raw Link) -->
   <a href="https://github.com/MDIRAM">
     <img src="https://animesher.com/orig/1/138/1381/13818/animesher.com_anime-gif-gif-neon-genesis-evangelion-1381887.gif" width="100%" style="max-width: 650px;" alt="NERV Monitor" />
