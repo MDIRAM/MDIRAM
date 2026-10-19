@@ -1,8 +1,8 @@
 <div align="center">
-                                                                        https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3AzdjZ4anVzbHR3MHBzeHlveTZwYXVrOWI1bmpmdjNheHZydW5nMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DKBNw2vrTdzANEV5ec/giphy.gif
+
   <!-- GIF Paling Atas (Raw Link) -->
   <a href="https://github.com/MDIRAM">
-    <img src="https://animesher.com/orig/1/138/1381/13818/animesher.com_anime-gif-gif-neon-genesis-evangelion-1381887.gif" width="100%" style="max-width: 650px;" alt="NERV Monitor" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3AzdjZ4anVzbHR3MHBzeHlveTZwYXVrOWI1bmpmdjNheHZydW5nMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DKBNw2vrTdzANEV5ec/giphy.gif" width="100%" style="max-width: 650px;" alt="NERV Monitor" />
   </a>
 
   <br/><br/>
@@ -43,7 +43,7 @@
 | 🎮 **[PRojekGameLibrary](https://github.com/MDIRAM/PRojekGameLibrary)** | `Angel-Class` | `Java` | Sistem manajemen *library* game. |
 | 📐 **[2D-3D-Kalkulus-2](https://github.com/MDIRAM/2D-3D-Kalkulus-2)** | `Catastrophe` | `C++` | Implementasi visualisasi dan perhitungan kalkulus. |
 | 📋 **[TierlistMu](https://github.com/MDIRAM/TierlistMu)** | `Warning` | `Java` | Aplikasi pembuatan *tier list*. |
-| 🌐 **[portofolio-2026](https://github.com/MDIRAM/portofolio-2026)** | `Secure` | `PHP` | Proyek portofolio web tahun 2026. |
+| 🌐 **[portofolio-2026](https://github.com/MDIRAM/portofolio-2026)** | `Secure` | `PHP` | Proyek portofolio web. |
 
 ---
 
