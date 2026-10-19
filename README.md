@@ -1,18 +1,18 @@
 <div align="center">
 
   <!-- EVA NERV Warning Banner -->
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=2,5,15,30&height=220&section=header&text=EMERGENCY%20:%20MDIRAM%20DOMAIN&fontSize=38&fontColor=ff2a2a&animation=twinkling&fontAlignY=38" width="100%" alt="Evangelion Header Banner" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=0,0,0,10&height=220&section=header&text=EMERGENCY%20:%20DIKARAN%20DOMAIN&fontSize=38&fontColor=ff0000&animation=twinkling&fontAlignY=38" width="100%" alt="Evangelion Header Banner" />
 
   <br/>
 
-  <!-- GIF Evangelion / Anime -->
-  <a href="https://github.com/MDIRAM">
+  <!-- GIF Evangelion Custom -->
+  <a href="https://github.com/DikaRan">
     <img src="https://animesher.com/orig/1/138/1381/13818/animesher.com_anime-gif-gif-neon-genesis-evangelion-1381887.gif" width="450" alt="Evangelion GIF" />
   </a>
 
   <br/><br/>
 
-  <h2>⚡ [SYSTEM STATUS: EVA UNIT-01 SYNCHRONIZED] ⚡</h2>
+  <h2>⚡ [SYSTEM STATUS: MAGI SYNCHRONIZED] ⚡</h2>
 
   <p><b>Muhamad Dika Ramadhan • Python & C# Developer • NERV Pilot</b></p>
   <p><i>"Get in the code, Shinji... or Rei will have to debug it."</i> 🤖💥</p>
@@ -21,7 +21,7 @@
 
   <!-- Evangelion Theme Badges -->
   <img src="https://img.shields.io/badge/NERV-TOKYO--3%20HQ-ff0000?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/SYNC%20RATE-400%25-7b2cbf?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SYNC%20RATE-400%25-ff8800?style=for-the-badge" />
 
   <br/><br/>
 
@@ -51,7 +51,7 @@
 
 ### 🚨 Pilot Data Sheet
 
-* 🩸 **Pilot Designation:** MDIRAM (Unit-01 Operator)
+* 🩸 **Pilot Designation:** DikaRan (MAGI System Operator)
 * 🧠 **Core Sync:** Python Backend, C# / .NET Applications & Scripting
 * 🛠️ **Magi System Tools:** Linux Mint, VS Code, PostgreSQL, Git
 * 🛡️ **Defensive Barrier:** AT Field active against bugs and unexpected runtime errors!
@@ -62,9 +62,9 @@
 
 | Operation | Threat Level | Tech Stack | Details |
 | :--- | :---: | :--- | :--- |
-| 🐍 **[Python Core Engine](https://github.com/MDIRAM)** | `Angel-Level` | `Python` `SQL` | High-priority Python backend / automation script. |
-| ⚡ **[C# .NET MAGI Protocol](https://github.com/MDIRAM)** | `Catastrophe` | `C#` `.NET` | High-performance C# application framework. |
-| 📱 **[Flutter Terminal UI](https://github.com/MDIRAM)** | `Code-Red` | `Flutter` `Dart` | Mobile interface application. |
+| 🐍 **[Python Core Engine](https://github.com/DikaRan)** | `Angel-Level` | `Python` `SQL` | High-priority Python backend / automation script. |
+| ⚡ **[C# .NET MAGI Protocol](https://github.com/DikaRan)** | `Catastrophe` | `C#` `.NET` | High-performance C# application framework. |
+| 📱 **[Flutter Terminal UI](https://github.com/DikaRan)** | `Code-Red` | `Flutter` `Dart` | Mobile interface application. |
 
 ---
 
@@ -74,18 +74,18 @@
 
   <br/>
 
-  <!-- Stats Card Evangelion Theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MDIRAM&show_icons=true&theme=synthwave&hide_border=true&count_private=true&title_color=ff0055&icon_color=7b2cbf" height="165" alt="Stats Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDIRAM&layout=compact&theme=synthwave&hide_border=true&title_color=ff0055" height="165" alt="Top Languages" />
+  <!-- Stats Card Evangelion NERV Hardcoded Theme -->
+  <img src="https://github-readme-stats.vercel.app/api?username=DikaRan&show_icons=true&bg_color=0a0a0a&title_color=ff0000&text_color=ffffff&icon_color=ff8800&border_color=ff0000" height="165" alt="Stats Card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikaRan&layout=compact&bg_color=0a0a0a&title_color=ff0000&text_color=ffffff&border_color=ff0000" height="165" alt="Top Languages" />
 
   <br/><br/>
 
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDIRAM&theme=synthwave&hide_border=true&fire=ff0055&ring=7b2cbf" alt="Streak Stats" />
+  <!-- Streak Stats Card NERV Hardcoded Theme -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DikaRan&background=0a0a0a&border=ff0000&stroke=ff0000&ring=ff8800&fire=ff0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff0000&sideLabels=ffffff&dates=aaaaaa" alt="Streak Stats" />
 
   <br/><br/>
 
   <!-- NERV Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=MDIRAM&color=ff0000&style=for-the-badge&label=NERV+LOGINS" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=DikaRan&color=ff0000&style=for-the-badge&label=NERV+LOGINS" alt="Visitor Counter" />
 
 </div>
