@@ -6,7 +6,7 @@
   <br/>
 
   <!-- EVA GIF -->
-  <img src="[https://animesher.com/orig/1/138/1381/13818/animesher.com_anime-gif-gif-neon-genesis-evangelion-1381887.gif" width="450" alt="Evangelion GIF](https://animesher.com/entry/anime-gif-gif-neon-genesis-evangelion-1381887/)" />
+  <img src="gif" width="450" alt="Evangelion GIF]([https://animesher.com/entry/anime-gif-gif-neon-genesis-evangelion-1381887/](https://animesher.com/entry/anime-gif-gif-neon-genesis-evangelion-1381887/)" />
 
   <br/><br/>
 
